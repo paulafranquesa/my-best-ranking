@@ -18,4 +18,4 @@ No special installation or setup is required. Just follow these steps:
 
 1. **Clone** this repository or download the files / リポジトリを**クローン**またはダウンロードします:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/my-best-ranking.git](https://github.com/YOUR_USERNAME/my-best-ranking.git)
+   git clone [https://paulafranquesa.github.io/my-best-ranking/]
